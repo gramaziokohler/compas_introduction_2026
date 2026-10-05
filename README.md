@@ -1,6 +1,6 @@
 # COMPAS Introduction: MAS 2026/2027
 
-[🎦 Introduction slides]https://docs.google.com/presentation/d/15OEDIMiS1zMAswhYUWdD4zNs9ziabeAl3MW8H9XgsaM/edit)
+[🎦 Introduction slides](https://docs.google.com/presentation/d/15OEDIMiS1zMAswhYUWdD4zNs9ziabeAl3MW8H9XgsaM/edit)
 
 ## Setup
 
