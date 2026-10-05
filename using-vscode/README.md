@@ -16,4 +16,4 @@ Windows PowerShell:
 
 Select `.venv` as the Python interpreter in VS Code. Open `using-vscode_hs26.gh` in Grasshopper and edit `unicorns.py` in VS Code. Keep both files in the same folder.
 
-The Grasshopper components use `# venv: ca-hs26` and `# r: compas>=2.15.1`. This Rhino script environment is separate from the local `.venv`. The example enables `DevTools.enable_reloader()` once and calls `DevTools.ensure_path()` before importing the external module, as in the HS26 teaching repository.
+The Grasshopper components use `# venv: mas-2627` and `# r: compas>=2.15.1`. This Rhino script environment is separate from the local `.venv`. The example enables `DevTools.enable_reloader()` once and calls `DevTools.ensure_path()` before importing the external module, as in the HS26 teaching repository.
