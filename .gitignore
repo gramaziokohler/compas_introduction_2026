@@ -16,3 +16,7 @@ ENV/
 
 *.DS_Store
 .vscode
+
+# Fabrication exports
+*.btlx
+*.stl

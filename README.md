@@ -27,6 +27,10 @@ Write a brick wall in Python!
 
 Use the following file as a starting point: [`/exercise/brick_wall.gh`](./exercise/brick_wall.gh).
 
+## Timber: from design to fabrication
+
+From lines to timber beams, joints, a cutting list and a BTLx file for the CNC machine, using `compas_timber`. Includes a pergola exercise. See [`/timber`](./timber/README.md).
+
 ## Using VS Code
 
 How to setup your VS Code editor to write Python code outside Rhino. See example in [`/using-vscode`](./using-vscode/).
